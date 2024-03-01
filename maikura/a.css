@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+}
+
+.steve {
+    position: absolute;
+    top: 500px; 
+    left: 900px;
+    transform: translate(-50%, -50%); 
+}
+
+.diamond {
+    position: absolute;
+    top: 560px; 
+    left: 1030px;
+    transform: translate(-50%, -50%); 
+}
+
+p {
+    position: absolute;
+    top: 610px; 
+    left: 1000px; 
+    
+}
